@@ -1,0 +1,13 @@
+name: lacquer
+version: 0.1.0
+
+authors:
+  - Javier Valencia <javier.valencia@gmail.com>
+
+targets:
+  lacquer:
+    main: src/lacquer.cr
+
+crystal: 0.24.1
+
+license: MIT
